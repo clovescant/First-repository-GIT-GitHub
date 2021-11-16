@@ -1,2 +1,2 @@
-# First-repository-GIT-GitHub
-Test repository for learning
+# First repository GIT-GitHub with DIO
+## Where main GIT topics will be recorded
